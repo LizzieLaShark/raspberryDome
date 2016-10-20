@@ -1,3 +1,10 @@
+// Raspeberry dome project for programmable interactive lights on the raspeberry dome.
+
+
+
+
+
+
 example code from johnny-five
 
 var five = require("johnny-five");
